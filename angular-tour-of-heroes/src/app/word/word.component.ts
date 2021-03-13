@@ -9,6 +9,8 @@ export class WordComponent implements OnInit {
 
   constructor() { }
 
+  name: string = 'fuck';
+
   ngOnInit(): void {
   }
 
